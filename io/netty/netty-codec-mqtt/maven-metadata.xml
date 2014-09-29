@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.netty</groupId>
+  <artifactId>netty-codec-mqtt</artifactId>
+  <versioning>
+    <versions>
+      <version>5.0.0.Alpha2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140929012122</lastUpdated>
+  </versioning>
+</metadata>
