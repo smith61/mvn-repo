@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.netty</groupId>
+  <artifactId>netty-codec-memcache</artifactId>
+  <versioning>
+    <versions>
+      <version>5.0.0.Alpha2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140929012118</lastUpdated>
+  </versioning>
+</metadata>
